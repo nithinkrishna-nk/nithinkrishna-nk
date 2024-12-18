@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Full-Stack Development  <br>📑 Check out my [resume here](https://drive.google.com/file/d/1RCo1mfYIeVofgv-6qHbtOmhZ637KiYEl/view?usp=sharing) - My Resume<br>🌐 Check out my website here - [justnk.in](https://justnk.in) <br>💻 All of my projects are available on GitHub<br>📽️ I regularly upload videos on My Youtube Channel <br>📈 1.5M+ users have visited my website<br>💬 Ask me about Web Development, SEO, and Blogging<br>📫 Reach out to me at dnithinw1@gmail.com<br><br>
+🌱 I’m currently learning Full-Stack Development  <br>📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1RCo1mfYIeVofgv-6qHbtOmhZ637KiYEl/view?usp=sharing)<br>🌐 Check out my website here - [justnk.in](https://justnk.in) <br>💻 All of my projects are available on GitHub<br>📽️ I regularly upload videos on [My Youtube Channel](https://youtube.com/@dearkannada) <br>📈 1.5M+ users have visited my website<br>💬 Ask me about Web Development, SEO, and Blogging<br>📫 Reach out to me at dnithinw1@gmail.com<br><br>
 
 
 ## 🌐 Socials:
